@@ -528,10 +528,14 @@ body::before {
 }
 
 .hero-name {
-    font-size: 3.5rem;
+    font-size: 4rem;
     font-weight: 700;
     color: var(--text-primary);
     margin-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: none;
+    letter-spacing: -1px;
+    line-height: 1.2;
 }
 
 .hero-typed-container {
